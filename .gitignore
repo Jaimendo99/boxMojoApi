@@ -1,0 +1,3 @@
+.boxvenv
+*.ipynb
+__pycache__
